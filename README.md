@@ -6,3 +6,4 @@ Convert a `.png` file to `.jpg` file.
 
 ### Running
 `pip3 install Pillow`
+`python3 image.py`
